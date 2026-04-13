@@ -1,4 +1,4 @@
-## Hello, I'am Franciss
+## Hello, I'm Franciss
 I’m currently working on hosting my own website using my personal machine while exploring deeper aspects of DevOps, server management, and how Linux systems and kernels work. I’m interested in collaborating on large-scale web applications and continuously improving my understanding of infrastructure and deployment. I mainly work with Svelte and Linux, and I enjoy learning by building first and figuring things out along the way rather than relying solely on documentation.
 
 
