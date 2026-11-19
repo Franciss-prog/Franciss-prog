@@ -1,18 +1,27 @@
-## Hello, I'm Franciss
-I’m currently working on hosting my own website using my personal machine while exploring deeper aspects of DevOps, server management, and how Linux systems and kernels work. I’m interested in collaborating on large-scale web applications and continuously improving my understanding of infrastructure and deployment. I mainly work with Svelte and Linux, and I enjoy learning by building first and figuring things out along the way rather than relying solely on documentation.
+<div align="center">
 
+<img src="assets/neofetch.svg" alt="neofetch: Franciss, frontend / full-stack engineer from the Philippines. Svelte, Linux and self-hosting; exploring DevOps and Go. Live GitHub stats included." />
 
-##  Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1NtnubiGid/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/francis_prog?igsh=YXlqeHFiYm9kcTF2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-gil-abarintos-9b6788315/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ph.pinterest.com/francdev/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Franciss-prog) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@francissprog?_t=ZS-8xbNpsP2tLZ&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Francisprog?t=0Ie7BdZM0IWt4eiaBs_LAA&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francisgil.prog@gmail.com) 
+<img src="assets/projects.svg" alt="ls ~/projects: pinned repositories with star counts" />
 
-## Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=flat&logo=svelte&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<!-- projects:start -->
+<a href="https://github.com/Franciss-prog/go-ytm">go-ytm</a> · <a href="https://github.com/Franciss-prog/nagacms">nagacms</a> · <a href="https://github.com/Franciss-prog/Backup">Backup</a> · <a href="https://github.com/Franciss-prog/NagaCare">NagaCare</a> · <a href="https://github.com/Franciss-prog/mydotfiles">mydotfiles</a> · <a href="https://github.com/Franciss-prog/link-shortener">link-shortener</a>
+<!-- projects:end -->
 
-## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Franciss-prog&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Franciss-prog&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Franciss-prog&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br />
+<br />
 
+<img src="assets/languages.svg" alt="cat languages.txt: top languages by bytes across my public repositories" />
 
+<img src="assets/gitlog.svg" alt="git log: 26-week contribution heatmap with current streak, longest streak and contributions this year" />
 
+<br />
+<br />
 
+<code>~/links</code>
+
+<a href="https://github.com/Franciss-prog">GitHub</a> · <a href="https://franciss.vercel.app">Website</a>
+
+<sub>cards regenerate every 6 hours via GitHub Actions · <code>scripts/generate.mjs</code></sub>
+
+</div>
